@@ -1,9 +1,9 @@
-![enter image description here](https://raw.githubusercontent.com/sergiecode/local-storage-tutorial/master/local-storage-tutorial%20%281%29.jpg)
-![enter image description here](https://raw.githubusercontent.com/sergiecode/local-storage-tutorial/master/local-storage-tutorial%20%282%29.jpg)
-![enter image description here](https://raw.githubusercontent.com/sergiecode/local-storage-tutorial/master/local-storage-tutorial%20%283%29.jpg)
-![enter image description here](https://raw.githubusercontent.com/sergiecode/local-storage-tutorial/master/local-storage-tutorial%20%284%29.jpg)
-![enter image description here](https://raw.githubusercontent.com/sergiecode/local-storage-tutorial/master/local-storage-tutorial%20%285%29.jpg)
-![enter image description here](https://raw.githubusercontent.com/sergiecode/local-storage-tutorial/master/local-storage-tutorial%20%286%29.jpg)
+![Tutorial de como usar localStorage con Javascript imagen 1](https://raw.githubusercontent.com/sergiecode/local-storage-tutorial/master/local-storage-tutorial%20%281%29.jpg)
+![Tutorial de como usar localStorage con Javascript imagen 2](https://raw.githubusercontent.com/sergiecode/local-storage-tutorial/master/local-storage-tutorial%20%282%29.jpg)
+![Tutorial de como usar localStorage con Javascript imagen 3](https://raw.githubusercontent.com/sergiecode/local-storage-tutorial/master/local-storage-tutorial%20%283%29.jpg)
+![Tutorial de como usar localStorage con Javascript imagen 4](https://raw.githubusercontent.com/sergiecode/local-storage-tutorial/master/local-storage-tutorial%20%284%29.jpg)
+![Tutorial de como usar localStorage con Javascript imagen 5](https://raw.githubusercontent.com/sergiecode/local-storage-tutorial/master/local-storage-tutorial%20%285%29.jpg)
+![Tutorial de como usar localStorage con Javascript imagen 6](https://raw.githubusercontent.com/sergiecode/local-storage-tutorial/master/local-storage-tutorial%20%286%29.jpg)
 
 
 # Tutorial: Manipulación del LocalStorage con JavaScript
